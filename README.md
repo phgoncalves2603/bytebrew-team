@@ -1,3 +1,3 @@
 # ByteBrew team page
-##Pedro Pinto
+## Pedro Pinto
 This is a demo for github workshop
